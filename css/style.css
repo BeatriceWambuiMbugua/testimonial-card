@@ -48,11 +48,13 @@ background: linear-gradient(90deg, rgba(249,250,251,1) 0%, rgba(210,214,219,1) 1
   flex-direction: row;
   align-items: center;
   width: 100%;
+
 }
 
 .card-title-name h1{
   margin: 0;
   font-size: 18px;
+  color: #171717;
 }
 .card-title-name p{
   margin: 0;
@@ -70,4 +72,6 @@ background: linear-gradient(90deg, rgba(249,250,251,1) 0%, rgba(210,214,219,1) 1
   color: #525252;
   font-size: 16px;
   line-height: 24px;
+  margin-top: 16px;
+  padding: 0;
 }
