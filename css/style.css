@@ -51,16 +51,22 @@ background: linear-gradient(90deg, rgba(249,250,251,1) 0%, rgba(210,214,219,1) 1
 
 }
 
+.card-title-name{
+  gap: 1px;
+}
+
 .card-title-name h1{
   margin: 0;
   font-size: 18px;
   color: #171717;
   font-weight: 600;
+  line-height: 28px;
 }
 .card-title-name p{
   margin: 0;
   font-size: 14px;
    color: #525252;
+   line-height: 20px;
 }
 .card-image img{
   width: 48px;
